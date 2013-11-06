@@ -1,396 +1,1 @@
-University,Count
-Texas A&M University,13
-King's College London,8
-Trinity College Dublin,8
-University of Graz,7
-University College Cork,7
-New York University,6
-University College London,6
-University of Virginia,5
-University of Alberta,5
-Stanford University,5
-University of Glasgow,4
-University of Zurich,4
-University of Nebraska-Lincoln,4
-Emory University,4
-Universidad de M√°laga,4
-EPFL,4
-University of Gothenburg,4
-Martin-Luther-University Halle-Wittenberg,4
-Michigan State University,4
-Utrecht University,4
-Australian National University,3
-Royal Netherlands Academy of Arts and Sciences,3
-Columbia University,3
-Berlin-Brandenburg Academy of Sciences and Humanities,3
-Universit√© de Lausanne,3
-Huygens ING,3
-University of Basel,3
-Kyoto University,3
-Northeastern University,3
-Laboratoire Praxiling, UMR 5267 CNRS, Universit√© de Montpellier 3, Paul Val√©ry, France,3
-Bucknell University,3
-Massachusetts Institute of Technology,3
-Universit√© de Montr√©al,3
-McGill University,3
-University of Amsterdam,3
-Brigham Young University,3
-University of California, Los Angeles,3
-National Taiwan University,3
-University of Victoria,3
-New York Public Library,3
-UCLA,3
-KU Leuven,2
-University of Michigan,2
-University of Edinburgh,2
-Department of Digital Humanities, King's College London,2
-Berlin-Brandenburgische Akademie der Wissenschaften,2
-Erasmus University Rotterdam,2
-University of British Columbia,2
-National Central University,2
-University of Hamburg,2
-National Chengchi University,2
-University of Southampton,2
-Fondazione Bruno Kessler,2
-University of W√ºrzburg,2
-National University of Ireland, Maynooth,2
-University of Antwerp,2
-George Mason University,2
-University of Cambridge,2
-Harvard University,2
-Concordia University,2
-pagina GmbH,2
-University of Illinois at Urbana-Champaign,2
-Digital Humanities Lab, Universit√§t Basel,2
-CulturePlex Lab, University of Western Ontario,2
-Rutgers University,2
-University of Texas at Austin,2
-School of Information Studies of the Federal University of Minas Gerais UFMG.,2
-University of Western Ontario,2
-Bar Ilan University,2
-University of Aberdeen,2
-Brown University,2
-Digital Humanities Observatory,2
-The British Museum,2
-LAB1100,2
-The University of Texas at Austin,2
-Doshisha University,2
-Trier Center for Digital Humanities,2
-University of Chicago,2
-UC Berkeley,2
-Loyola University Chicago,2
-CUNY Graduate Center,2
-Austrian Academy of Sciences,2
-Institut f√ºr Deutsche Sprache, Mannheim,2
-University of Illinois,2
-UNIVERSIDAD DE SANTIAGO DE COMPOSTELA,2
-University of Maryland,2
-Universit√§t Graz,2
-University of Nebraska,2
-Universit√§t Leipzig,2
-University of Padua,2
-Universit√§t Trier,2
-University of Strathclyde,2
-Juola & Associates,2
-University of Toronto,2
-Kings College London,2
-University of Virginia Library,2
-Universit√© de Valenciennes et du Hainaut-Cambr√©sis,2
-University of Wisconsin‚ÄìStout,2
-Universit√© du Qu√©bec √† Montr√©al,2
-Beijing Normal University,2
-Universit√© Paris Sorbonne,2
-Tel Aviv University,2
-ZoomImagine,2
-University of Utah,1
-Hamilton College,1
-Garching Computing Centre of the Max Planck Society RZG,1
-ITHAKA,1
-University of Maine,1
-Black Mesa Technologies LLC,1
-Washington and Jefferson College,1
-Katholieke Universiteit Leuven,1
-Universit√© Technologique de Compi√®gne,1
-KB National Library of the Netherlands,1
-Humboldt Universit√§t zu Berlin,1
-Complutense University,1
-University of Paris-Sorbonne Paris IV,1
-Akademie der Wissenschaften und der Literatur Mainz,1
-ISIA Design Florence,1
-King's College, London,1
-Universit√§t Gie√üen,1
-King's College, University of London,1
-City University of Hong Kong,1
-Kinugasa Research Organization, Ritsumeikan University,1
-Goethe University Frankfurt,1
-Klokan Technologies GmbH,1
-University of California, Berkeley,1
-Knowledge and Data Engineering Group, Trinity College Dublin,1
-Huygens Institute,1
-Korea Advanced Institute of Science and Technology,1
-University of Navarre,1
-Berlin Brandenburg Academy of Sciences and Humanities,1
-University of Stirling,1
-Kumamoto Gakuen University, Japan,1
-University of Waterloo,1
-Cultural Evolution of Religion Research Consortium,1
-UVA,1
-L3S Research Center / Leibniz Universit√§t Hannover,1
-Universit√† di Pisa,1
-British Museum,1
-Universit√§t Heidelberg,1
-Brock University,1
-Georg-August-Universit√§t G√∂ttingen,1
-Lafayette College,1
-Universit√© Paris 3 - Sorbonne Nouvelle France,1
-Lancaster University,1
-Athena Research Centre, Athens, Greece,1
-LARHRA - CNRS,1
-University of Arizona,1
-LARHRA UMR 5190,1
-University of Birmingham, UK,1
-Lausanne University,1
-University of California, Santa Barbara,1
-Leipzig University,1
-CNRS,1
-Linguistics Centre of the University of Lisbon,1
-University of Lausanne, Switzerland, Federal University of Bahia, Brazil,1
-London Consortium,1
-University of Melbourne,1
-CVCE,1
-University of Osaka,1
-Macquarie University,1
-University of Sheffield,1
-Manhattan College,1
-University of the Pacific,1
-Deakin University,1
-University of Vienna,1
-Massachusetts Historical Society,1
-University of Wisconsin-Madison,1
-BBAW - Berlin-Brandenburgische Akademie der Wissenschaften,1
-Univesit√† degli Studi del Piemonte Orientale "A. Avogadro",1
-Max Planck Institute for the History of Science,1
-Virginia Foundation for the Humanities/UVA,1
-Deutsches Forschungszentrum f√ºr K√ºnstliche Intelligenz DFKI,1
-Universit√† Ca' Foscari, Venezia,1
-Memorial University of Newfoundland,1
-Universit√† di Torino,1
-Deutsches Museum,1
-Chiba University of Commerce,1
-Michigan State Univresity,1
-Fondazione per le Scienze Religiose,1
-Nara University,1
-Universit√© de Franche-Comt√©,1
-Natioanl Chengchi University,1
-Georg-August-Universit√§t G√∂ttingen, Nieders√§chsische Staats- und Universit√§tsbibliothek,1
-DH Institute,1
-Universit√© Lausanne UNIL,1
-Dharma Drum Buddhist College,1
-Universit√© Paris I Panth√©on-Sorbonne, Institut National d'Histoire de l'Art,1
-National Chengchi UniversityÔºàTaiwanÔºâ,1
-University Basel,1
-National Chiayi University,1
-University of Alabama,1
-National Chung Hsing University,1
-University of Applied Sciences,1
-National Dong Hwa University,1
-University of Aveiro,1
-National Formosa University,1
-University of Bern,1
-National Hsinchu University of Education,1
-Hartwick College,1
-National Institute for Japanese Language and Linguistics,1
-Clemson University,1
-National Institute of Informatics,1
-HistoGlobe,1
-National Library of Norway,1
-Humboldt-University Berlin,1
-National Library of Wales,1
-Huygens ING - Royal Dutch Academy of Arts and Sciences,1
-National Quemoy University Taiwan,1
-University of Kansas,1
-National Research Council CNR,1
-University of Lethbridge,1
-National Research Council- ILIESI,1
-University of Manchester,1
-National Research Unversity Higher School of Economics Moscow,1
-University of Minnesota,1
-NATIONAL SUN YAT-SEN UNIVERSITY,1
-independent consultant/ researcher,1
-Brown University Library,1
-Independent scholar,1
-National University of Ireland Maynooth,1
-University of Queensland,1
-Battersea Arts Centre,1
-University of Southern Denmark,1
-National University of Kaohsiung,1
-University of Sydney,1
-Nebraska Literary Lab, University of Nebraska-Lincoln,1
-Colgate University,1
-New York City College of Technology, CUNY,1
-Institute of Information Scientists,1
-Diplomatic Documents of Switzerland,1
-Institute of Literary Research of the Polish Academy of Sciences,1
-Akademie der Wissenschaften zu G√∂ttingen,1
-Institute of Social and Economic History, University of Zurich,1
-California State University San Marcos,1
-University of Wroc≈Çaw,1
-NUI Galway,1
-University Stuttgart,1
-NUI Maynooth,1
-ISTI-CNR,1
-NUIM,1
-Vienna University of Technology,1
-Old Dominion University,1
-Walters Art Museum/R.B. Toth Associates,1
-Oxford e-Research Centre, UK,1
-Yale University,1
-Duquesne University,1
-Universit√† degli Studi del Piemonte Orientale,1
-Paris-Sorbonne,1
-Universit√† di Roma Tor Vergata,1
-Pedagogical University, Krakow,1
-Universit√§t f√ºr k√ºnstlerische und industrielle Gestaltung Linz,1
-Pratt Institute,1
-Universit√§t G√∂ttingen,1
-Princeton University and Trier Center for Digital Humanities,1
-Universit√§t Greifswald,1
-Purdue University Calumet,1
-Universit√§t Konstanz,1
-Queen Mary, University of London,1
-Universit√§t Paderborn,1
-Rensselaer Polytechnic Institute,1
-Universit√§t T√ºbingen,1
-Richard Stockton College of New Jersey,1
-Universit√© de Fribourg,1
-Rijksuniversiteit Groningen/Vrije Universiteit Amsterdam,1
-Universit√© de Lille 3,1
-Eberhard Karls University T√ºbingen,1
-Universit√© de Poitiers,1
-Ruhr-University Bochum,1
-Georgia Institute of Technology,1
-Ecole Nationale Sup√©rieure des Arts et Techniques du Th√©√¢tre ENSATT,1
-Universit√© Paris 1 Panth√©on-Sorbonne,1
-School of English and Theatre Studies, University of Guelph,1
-Universit√© Paris Est Cr√©teil UPEC,1
-EHESS,1
-Georgia State University,1
-Sciences Po,1
-University at Buffalo,1
-Self Employed,1
-ATHENA R.C.,1
-Sexy Codicology,1
-German Literature Archive Marbach,1
-Shaw University,1
-Ghent University,1
-Siberian Federal University,1
-G√∂ttingen State and University Library, Research & Developement Department,1
-Societ√† Internazionale per lo Studio del Medioevo Latino,1
-University of Applied Sciences Potsdam,1
-Society for Emblem Studies/University of Illinois,1
-University of Arkansas at Little Rock,1
-Society of Dance History Scholars,1
-University of Bamberg,1
-Aix-Marseille University,1
-University of Bergen,1
-State Polytechnical University,1
-University of Birmingham,1
-Swiss Academy for Humanities and Social Sciences,1
-University of Bologna,1
-Syracuse University,1
-University of British Columbia, Okanagan Campus,1
-Yu Da University,1
-University of California, Irvine,1
-Center for the Study of Digital Libraries - Texas A&M University,1
-University of California, San Diego,1
-ENS de Lyon,1
-HATII, University of Glasgow,1
-Tel-Aviv University,1
-University of Cologne,1
-Alexandria University,1
-Humboldt-Universit√§t zu Berlin,1
-Texas A&M University Libraries,1
-Huntington Library / Spanish National Research Council,1
-The British Library,1
-University of Houston,1
-ENS Lyon - Labo junior Nhum√©risme,1
-University of Illinois at UC,1
-The CulturePlex Lab, University of Western Ontario,1
-University of Illinois, Urbana-Champaign,1
-The Five Colleges of Ohio,1
-University of Lausanne CH,1
-The Pennsylvania State University,1
-University of Leipzig,1
-The Polis Center at IUPUI,1
-University of Limerick,1
-The University of British Columbia,1
-University of M√°laga,1
-The University of Edinburgh,1
-Huygens Institute for the History of the Netherlands - Royal Dutch Academy of Arts and Sciences,1
-The University of Iowa,1
-Idiap Research Institute,1
-The University of Mississippi,1
-University of Mississippi,1
-The University of Nottingham,1
-IDS-Mannheim,1
-The University of Queensland,1
-University of Nebraska-Lincoln Libraries,1
-Central Queensland University, Australia,1
-University of Oxford,1
-The University of Tokyo,1
-University of Paris 13,1
-The University of Waterloo,1
-University of Passau,1
-The University of Western Ontario,1
-University of Regensburg,1
-Toyo University,1
-Indiana University,1
-Chang Gung University,1
-University of St Andrews,1
-Trier University,1
-Indiana University-Purdue University Fort Wayne,1
-Arizona State University,1
-infoclio.ch,1
-TU Darmstadt,1
-University of Tokyo,1
-Tunghai University,1
-University of Trier,1
-U of Passau,1
-University of Utrecht,1
-Estonian Literary Museum,1
-University of Victoria, Electronic Textual Cultures Lab,1
-UCL Centre for Digital Humanities,1
-Ball State University,1
-EVL Labs, Duquesne University,1
-University of Warsaw,1
-UNC Chapel Hill,1
-University of Western Australia,1
-UNC, Chapel hill,1
-University of Winchester,1
-UNED,1
-International Institute for Digital Humanities,1
-Univeristy of Copenhagen,1
-International Institute of Social History,1
-Univeristy of Pierre and Marie Curie UPMC,1
-University Pierre and Marie Curie - Sorbonne University,1
-Universidad Aut√≥noma Metropolitana - Cuajimalpa,1
-UNIVESIDADE ESTADUAL DE FEIRA DE SANTANA,1
-Universidad de Granada,1
-UQAM,1
-FH Worms,1
-Utrecht University -- Netherlands,1
-Fo Guang University,1
-Van Leer Jeruslem Institute,1
-Universidad Nacional Aut√≥noma de M√©xico,1
-Vilnius University,1
-Universidad Nacional Aut√≥noma de M√©xico - UNAM,1
-Virginia Tech University,1
-Universidad Nacional de Educaci√≥n a Distancia,1
-Washington & Jefferson College,1
-Universidad Nacional de Educaci√≥n a Distancia UNED,1
-Wilfrid Laurier University,1
-Universidade de S√£o Paulo,1
-Italian National Research Council,1
-Universidade Federal do Rio de Janeiro,1
-Taipei National University of the Arts,1
-Technische Universit√§t Dortmund,1
+University,Count,,,Texas A&M University,13,,,King's College London,8,,,Trinity College Dublin,8,,,University of Graz,7,,,University College Cork,7,,,New York University,6,,,University College London,6,,,University of Virginia,5,,,University of Alberta,5,,,Stanford University,5,,,University of Glasgow,4,,,University of Zurich,4,,,University of Nebraska-Lincoln,4,,,Emory University,4,,,Universidad de MÃ¡laga,4,,,EPFL,4,,,University of Gothenburg,4,,,Martin-Luther-University Halle-Wittenberg,4,,,Michigan State University,4,,,Utrecht University,4,,,Australian National University,3,,,Royal Netherlands Academy of Arts and Sciences,3,,,Columbia University,3,,,Berlin-Brandenburg Academy of Sciences and Humanities,3,,,UniversitÃ© de Lausanne,3,,,Huygens ING,3,,,University of Basel,3,,,Kyoto University,3,,,Northeastern University,3,,, UniversitÃ© de Montpellier ,3,, Paul ValÃ©ry, FranceBucknell University,3,,,Massachusetts Institute of Technology,3,,,UniversitÃ© de MontrÃ©al,3,,,McGill University,3,,,University of Amsterdam,3,,,Brigham Young University,3,,,University of California  Los Angeles,3,,,National Taiwan University,3,,,University of Victoria,3,,,New York Public Library,3,,,UCLA,3,,,KU Leuven,2,,,University of Michigan,2,,,University of Edinburgh,2,,, King's College London,2,,,Berlin-Brandenburgische Akademie der Wissenschaften,2,,,Erasmus University Rotterdam,2,,,University of British Columbia,2,,,National Central University,2,,,University of Hamburg,2,,,National Chengchi University,2,,,University of Southampton,2,,,Fondazione Bruno Kessler,2,,,University of WÃ_rzburg,2,,,National University of Ireland,2,,,University of Antwerp,2,,,George Mason University,2,,,University of Cambridge,2,,,Harvard University,2,,,Concordia University,2,,,pagina GmbH,2,,,University of Illinois at Urbana-Champaign,2,,, UniversitÃ_t Basel,2,,, University of Western Ontario,2,,,Rutgers University,2,,,University of Texas at Austin,2,,,School of Information Studies of the Federal University of Minas Gerais UFMG.,2,,,University of Western Ontario,2,,,Bar Ilan University,2,,,University of Aberdeen,2,,,Brown University,2,,,Digital Humanities Observatory,2,,,The British Museum,2,,,LAB1100,2,,,The University of Texas at Austin,2,,,Doshisha University,2,,,Trier Center for Digital Humanities,2,,,University of Chicago,2,,,UC Berkeley,2,,,Loyola University Chicago,2,,,CUNY Graduate Center,2,,,Austrian Academy of Sciences,2,,,Institut fÃ_r Deutsche Sprache,2,,,University of Illinois,2,,,UNIVERSIDAD DE SANTIAGO DE COMPOSTELA,2,,,University of Maryland,2,,,UniversitÃ_t Graz,2,,,University of Nebraska,2,,,UniversitÃ_t Leipzig,2,,,University of Padua,2,,,UniversitÃ_t Trier,2,,,University of Strathclyde,2,,,Juola & Associates,2,,,University of Toronto,2,,,Kings College London,2,,,University of Virginia Library,2,,,UniversitÃ© de Valenciennes et du Hainaut-CambrÃ©sis,2,,,University of Wisconsinâ€“Stout,2,,,UniversitÃ© du QuÃ©bec Ã  MontrÃ©al,2,,,Beijing Normal University,2,,,UniversitÃ© Paris Sorbonne,2,,,Tel Aviv University,2,,,ZoomImagine,2,,,University of Utah,1,,,Hamilton College,1,,,Garching Computing Centre of the Max Planck Society RZG,1,,,ITHAKA,1,,,University of Maine,1,,,Black Mesa Technologies LLC,1,,,Washington and Jefferson College,1,,,Katholieke Universiteit Leuven,1,,,UniversitÃ© Technologique de CompiÃ¨gne,1,,,KB National Library of the Netherlands,1,,,Humboldt UniversitÃ_t zu Berlin,1,,,Complutense University,1,,,University of Paris-Sorbonne Paris IV,1,,,Akademie der Wissenschaften und der Literatur Mainz,1,,,ISIA Design Florence,1,,,King's College London,1,,,UniversitÃ_t GieÃŸen,1,,,King's College London,1,,,City University of Hong Kong,1,,, Ritsumeikan University,1,,,Goethe University Frankfurt,1,,,Klokan Technologies GmbH,1,,,University of California Berkeley,1,,, Trinity College Dublin,1,,,Huygens Institute,1,,,Korea Advanced Institute of Science and Technology,1,,,University of Navarre,1,,,Berlin Brandenburg Academy of Sciences and Humanities,1,,,University of Stirling,1,,,Kumamoto Gakuen University,1,,,University of Waterloo,1,,,Cultural Evolution of Religion Research Consortium,1,,,UVA,1,,,L3S Research Center / Leibniz UniversitÃ_t Hannover,1,,,UniversitÃ  di Pisa,1,,,British Museum,1,,,UniversitÃ_t Heidelberg,1,,,Brock University,1,,,Georg-August-UniversitÃ_t GÃ¶ttingen,1,,,Lafayette College,1,,,UniversitÃ© Paris 3 - Sorbonne Nouvelle France,1,,,Lancaster University,1,,,Athena Research Centre,1,,,LARHRA - CNRS,1,,,University of Arizona,1,,,LARHRA UMR 5190,1,,,University of Birmingham,1,,,Lausanne University,1,,,University of California  Santa Barbara,1,,,Leipzig University,1,,,CNRS,1,,,Linguistics Centre of the University of Lisbon,1,,,University of Lausanne,1,,,London Consortium,1,,,University of Melbourne,1,,,CVCE,1,,,University of Osaka,1,,,Macquarie University,1,,,University of Sheffield,1,,,Manhattan College,1,,,University of the Pacific,1,,,Deakin University,1,,,University of Vienna,1,,,Massachusetts Historical Society,1,,,University of Wisconsin-Madison,1,,,BBAW - Berlin-Brandenburgische Akademie der Wissenschaften,1,,,"UnivesitÃ  degli Studi del Piemonte Orientale ""A. Avogadro""",1,,,Max Planck Institute for the History of Science,1,,,Virginia Foundation for the Humanities/UVA,1,,,Deutsches Forschungszentrum fÃ_r KÃ_nstliche Intelligenz DFKI,1,,,UniversitÃ  Ca' Foscari  Venezia,1,,,Memorial University of Newfoundland,1,,,UniversitÃ  di Torino,1,,,Deutsches Museum,1,,,Chiba University of Commerce,1,,,Michigan State Univresity,1,,,Fondazione per le Scienze Religiose,1,,,Nara University,1,,,UniversitÃ© de Franche-ComtÃ©,1,,,Natioanl Chengchi University,1,,,Georg-August-UniversitÃ_t GÃ¶ttingen  NiedersÃ_chsische Staats- und UniversitÃ_tsbibliothek,1,,,DH Institute,1,,,UniversitÃ© Lausanne UNIL,1,,,Dharma Drum Buddhist College,1,,,UniversitÃ© Paris I PanthÃ©on-Sorbonne,1,,,National Chengchi Universityï_ˆTaiwanï_‰,1,,,University Basel,1,,,National Chiayi University,1,,,University of Alabama,1,,,National Chung Hsing University,1,,,University of Applied Sciences,1,,,National Dong Hwa University,1,,,University of Aveiro,1,,,National Formosa University,1,,,University of Bern,1,,,National Hsinchu University of Education,1,,,Hartwick College,1,,,National Institute for Japanese Language and Linguistics,1,,,Clemson University,1,,,National Institute of Informatics,1,,,HistoGlobe,1,,,National Library of Norway,1,,,Humboldt-University Berlin,1,,,National Library of Wales,1,,,Huygens ING - Royal Dutch Academy of Arts and Sciences,1,,,National Quemoy University Taiwan,1,,,University of Kansas,1,,,National Research Council CNR,1,,,University of Lethbridge,1,,,National Research Council- ILIESI,1,,,University of Manchester,1,,,National Research Unversity Higher School of Economics Moscow,1,,,University of Minnesota,1,,,NATIONAL SUN YAT-SEN UNIVERSITY,1,,,independent consultant/ researcher,1,,,Brown University Library,1,,,Independent scholar,1,,,National University of Ireland Maynooth,1,,,University of Queensland,1,,,Battersea Arts Centre,1,,,University of Southern Denmark,1,,,National University of Kaohsiung,1,,,University of Sydney,1,,, University of Nebraska-Lincoln,1,,,Colgate University,1,,,New York City College of Technology  CUNY,1,,,Institute of Information Scientists,1,,,Diplomatic Documents of Switzerland,1,,,Institute of Literary Research of the Polish Academy of Sciences,1,,,Akademie der Wissenschaften zu GÃ¶ttingen,1,,,Institute of Social and Economic History  University of Zurich,1,,,California State University San Marcos,1,,,University of WrocÅ‚aw,1,,,NUI Galway,1,,,University Stuttgart,1,,,NUI Maynooth,1,,,ISTI-CNR,1,,,NUIM,1,,,Vienna University of Technology,1,,,Old Dominion University,1,,,Walters Art Museum/R.B. Toth Associates,1,,,Oxford e-Research Centre,1,,,Yale University,1,,,Duquesne University,1,,,UniversitÃ  degli Studi del Piemonte Orientale,1,,,Paris-Sorbonne,1,,,UniversitÃ  di Roma Tor Vergata,1,,,Pedagogical University  Krakow,1,,,UniversitÃ_t fÃ_r kÃ_nstlerische und industrielle Gestaltung Linz,1,,,Pratt Institute,1,,,UniversitÃ_t GÃ¶ttingen,1,,,Princeton University and Trier Center for Digital Humanities,1,,,UniversitÃ_t Greifswald,1,,,Purdue University Calumet,1,,,UniversitÃ_t Konstanz,1,,,Queen Mary  University of London,1,,,UniversitÃ_t Paderborn,1,,,Rensselaer Polytechnic Institute,1,,,UniversitÃ_t TÃ_bingen,1,,,Richard Stockton College of New Jersey,1,,,UniversitÃ© de Fribourg,1,,,Rijksuniversiteit Groningen/Vrije Universiteit Amsterdam,1,,,UniversitÃ© de Lille 3,1,,,Eberhard Karls University TÃ_bingen,1,,,UniversitÃ© de Poitiers,1,,,Ruhr-University Bochum,1,,,Georgia Institute of Technology,1,,,Ecole Nationale SupÃ©rieure des Arts et Techniques du ThÃ©Ã¢tre ENSATT,1,,,UniversitÃ© Paris 1 PanthÃ©on-Sorbonne,1,,,School of English and Theatre Studies  University of Guelph,1,,,UniversitÃ© Paris Est CrÃ©teil UPEC,1,,,EHESS,1,,,Georgia State University,1,,,Sciences Po,1,,,University at Buffalo,1,,,Self Employed,1,,,ATHENA R.C.,1,,,Sexy Codicology,1,,,German Literature Archive Marbach,1,,,Shaw University,1,,,Ghent University,1,,,Siberian Federal University,1,,,GÃ¶ttingen State and University Library,1,,,SocietÃ  Internazionale per lo Studio del Medioevo Latino,1,,,University of Applied Sciences Potsdam,1,,,Society for Emblem Studies/University of Illinois,1,,,University of Arkansas at Little Rock,1,,,Society of Dance History Scholars,1,,,University of Bamberg,1,,,Aix-Marseille University,1,,,University of Bergen,1,,,State Polytechnical University,1,,,University of Birmingham,1,,,Swiss Academy for Humanities and Social Sciences,1,,,University of Bologna,1,,,Syracuse University,1,,,University of British Columbia,1,,,Yu Da University,1,,,University of California  Irvine,1,,,Center for the Study of Digital Libraries - Texas A&M University,1,,,University of California  San Diego,1,,,ENS de Lyon,1,,,HATII  University of Glasgow,1,,,Tel-Aviv University,1,,,University of Cologne,1,,,Alexandria University,1,,,Humboldt-UniversitÃ_t zu Berlin,1,,,Texas A&M University Libraries,1,,,Huntington Library / Spanish National Research Council,1,,,The British Library,1,,,University of Houston,1,,,ENS Lyon - Labo junior NhumÃ©risme,1,,,University of Illinois at UC,1,,,The CulturePlex Lab  University of Western Ontario,1,,,University of Illinois  Urbana-Champaign,1,,,The Five Colleges of Ohio,1,,,University of Lausanne CH,1,,,The Pennsylvania State University,1,,,University of Leipzig,1,,,The Polis Center at IUPUI,1,,,University of Limerick,1,,,The University of British Columbia,1,,,University of MÃ¡laga,1,,,The University of Edinburgh,1,,,Huygens Institute for the History of the Netherlands - Royal Dutch Academy of Arts and Sciences,1,,,The University of Iowa,1,,,Idiap Research Institute,1,,,The University of Mississippi,1,,,University of Mississippi,1,,,The University of Nottingham,1,,,IDS-Mannheim,1,,,The University of Queensland,1,,,University of Nebraska-Lincoln Libraries,1,,,Central Queensland University  Australia,1,,,University of Oxford,1,,,The University of Tokyo,1,,,University of Paris 13,1,,,The University of Waterloo,1,,,University of Passau,1,,,The University of Western Ontario,1,,,University of Regensburg,1,,,Toyo University,1,,,Indiana University,1,,,Chang Gung University,1,,,University of St Andrews,1,,,Trier University,1,,,Indiana University-Purdue University Fort Wayne,1,,,Arizona State University,1,,,infoclio.ch,1,,,TU Darmstadt,1,,,University of Tokyo,1,,,Tunghai University,1,,,University of Trier,1,,,U of Passau,1,,,University of Utrecht,1,,,Estonian Literary Museum,1,,,University of Victoria,1,,,UCL Centre for Digital Humanities,1,,,Ball State University,1,,,EVL Labs  Duquesne University,1,,,University of Warsaw,1,,,UNC Chapel Hill,1,,,University of Western Australia,1,,,UNC  Chapel hill,1,,,University of Winchester,1,,,UNED,1,,,International Institute for Digital Humanities,1,,,Univeristy of Copenhagen,1,,,International Institute of Social History,1,,,Univeristy of Pierre and Marie Curie UPMC,1,,,University Pierre and Marie Curie - Sorbonne University,1,,,Universidad AutÃ_noma Metropolitana - Cuajimalpa,1,,,UNIVESIDADE ESTADUAL DE FEIRA DE SANTANA,1,,,Universidad de Granada,1,,,UQAM,1,,,FH Worms,1,,,Utrecht University -- Netherlands,1,,,Fo Guang University,1,,,Van Leer Jeruslem Institute,1,,,Universidad Nacional AutÃ_noma de MÃ©xico,1,,,Vilnius University,1,,,Universidad Nacional AutÃ_noma de MÃ©xico - UNAM,1,,,Virginia Tech University,1,,,Universidad Nacional de EducaciÃ_n a Distancia,1,,,Washington & Jefferson College,1,,,Universidad Nacional de EducaciÃ_n a Distancia UNED,1,,,Wilfrid Laurier University,1,,,Universidade de SÃ£o Paulo,1,,,Italian National Research Council,1,,,Universidade Federal do Rio de Janeiro,1,,,Taipei National University of the Arts,1,,,Technische UniversitÃ_t Dortmund,1,,,
