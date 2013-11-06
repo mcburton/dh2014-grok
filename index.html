@@ -1,0 +1,147 @@
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+body {
+  background: #fcfcfa;
+}
+
+.stroke {
+  fill: none;
+  stroke: #000;
+  stroke-width: 3px;
+}
+
+.fill {
+  fill: #fff;
+}
+
+.graticule {
+  fill: none;
+  stroke: #777;
+  stroke-width: .5px;
+  stroke-opacity: .5;
+}
+
+.country {
+  fill: #D1D1D1;
+}
+
+.boundary {
+  fill: none;
+  stroke: #fff;
+  stroke-width: .5px;
+}
+
+</style>
+<body>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://d3js.org/d3.geo.projection.v0.min.js"></script>
+<script src="http://d3js.org/topojson.v1.min.js"></script>
+<script>
+
+var countryCounts = {
+ 36: 11,
+ 40: 14,
+ 56: 6,
+ 76: 5,
+ 124: 40,
+ 156: 2,
+ 158: 23,
+ 188: 1,
+ 208: 2,
+ 233: 1,
+ 250: 29,
+ 276: 66,
+ 300: 3,
+ 344: 1,
+ 356: 1,
+ 372: 25,
+ 376: 6,
+ 380: 22,
+ 392: 15,
+ 410: 1,
+ 440: 1,
+ 442: 3,
+ 484: 3,
+ 528: 22,
+ 578: 2,
+ 608: 1,
+ 616: 4,
+ 620: 2,
+ 643: 3,
+ 724: 12,
+ 752: 4,
+ 756: 29,
+ 818: 1,
+ 826: 56,
+ 840: 171};
+
+var width = 960,
+    height = 580;
+
+
+var color = d3.scale.log()
+    .domain([1, 700])
+    .range(["#FFBAC1", "#FF051E"]);
+
+var projection = d3.geo.kavrayskiy7()
+    .scale(170)
+    .translate([width / 2, height / 2])
+    .precision(.1);
+
+var path = d3.geo.path()
+    .projection(projection);
+
+var graticule = d3.geo.graticule();
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+svg.append("defs").append("path")
+    .datum({type: "Sphere"})
+    .attr("id", "sphere")
+    .attr("d", path);
+
+svg.append("use")
+    .attr("class", "stroke")
+    .attr("xlink:href", "#sphere");
+
+svg.append("use")
+    .attr("class", "fill")
+    .attr("xlink:href", "#sphere");
+
+svg.append("path")
+    .datum(graticule)
+    .attr("class", "graticule")
+    .attr("d", path);
+
+d3.json("world-50m.json", function(error, world) {
+  var countries = topojson.feature(world, world.objects.countries).features;
+
+
+  svg.selectAll(".country")
+      .data(countries)
+    .enter().insert("path", ".graticule")
+      .attr("class", "country")
+      .attr("d", path)
+      .style("fill", function(d) {
+          // var f = countryCounts[d.id];
+          //if(f) {
+              return color(countryCounts[d.id])
+              //} else {
+              // return "#D1D1D1"
+              // }
+          });
+
+  svg.insert("path", ".graticule")
+      .datum(topojson.mesh(world, world.objects.countries, function(a, b) { return a !== b; }))
+      .attr("class", "boundary")
+      .attr("d", path);
+});
+
+d3.select(self.frameElement).style("height", height + "px");
+
+</script>
